@@ -1,0 +1,1 @@
+# werewolf-score-v8
